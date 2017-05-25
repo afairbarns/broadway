@@ -29,6 +29,11 @@ li {
   font-size: 18px;
 }
 
+.alt-text {
+  color: white;
+  background-color: dimgray;
+}
+
 #footer-copyright {
   font-size: 11px;
 }
