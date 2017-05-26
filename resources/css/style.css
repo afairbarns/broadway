@@ -29,12 +29,17 @@ a {
   font-size: 18px;
 }
 
-.alt-text, .alt-text>nav>li>a {
+li {
+  list-style: none;
+}
+
+.alt-text, a {
   color: white;
 }
 
 .footer {
   background-color: dimgray;
+  text-align: left;
 }
 
 .banner-img {
