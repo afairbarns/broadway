@@ -25,14 +25,24 @@ p {
   font-size: 14px;
 }
 
-li {
+a {
   font-size: 18px;
 }
 
-.alt-text {
+.alt-text, .alt-text>nav>li>a {
   color: white;
+}
+
+.footer {
   background-color: dimgray;
 }
+
+.banner-img {
+  background-image: url("../img/the-flatiron-building.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
 
 #footer-copyright {
   font-size: 11px;
